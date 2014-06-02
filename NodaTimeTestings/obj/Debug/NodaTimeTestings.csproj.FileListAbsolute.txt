@@ -6,3 +6,6 @@ C:\Visual Studio Projects\180_days_project\NodaTimeTestings\NodaTimeTestings\bin
 C:\Visual Studio Projects\180_days_project\NodaTimeTestings\NodaTimeTestings\obj\Debug\NodaTimeTestings.csprojResolveAssemblyReference.cache
 C:\Visual Studio Projects\180_days_project\NodaTimeTestings\NodaTimeTestings\obj\Debug\NodaTimeTestings.exe
 C:\Visual Studio Projects\180_days_project\NodaTimeTestings\NodaTimeTestings\obj\Debug\NodaTimeTestings.pdb
+C:\Visual Studio Projects\180_days_project\NodaTimeTesting\NodaTimeTestings\bin\Debug\NodaTimeTestings.exe.config
+C:\Visual Studio Projects\180_days_project\NodaTimeTesting\NodaTimeTestings\obj\Debug\NodaTimeTestings.exe
+C:\Visual Studio Projects\180_days_project\NodaTimeTesting\NodaTimeTestings\obj\Debug\NodaTimeTestings.pdb
